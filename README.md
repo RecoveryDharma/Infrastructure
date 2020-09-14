@@ -4,6 +4,7 @@ This repository contains documentation, code snippets, supporting scripts and ot
 
 ## 📀 Products and Services
 
+-   **Information Technology**. Maintenance and management of the Recovery Dharma technology ecosphere, including domain names, email address, Slack channels, and so forth.
 -   **[Software](https://github.com/RecoveryDharma)**. Open-source software developed by Recovery Dharma and its volunteers, collaborators, and so forth, that are open-source and available for deriving, improving, and so forth.
 -   **Web based applications**. These are in development or awaiting development.
 
